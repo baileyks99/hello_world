@@ -1,0 +1,5 @@
+Feature list for hello_world
+
+Must include ability to change screen color:
+  If day then yellow
+  else black
